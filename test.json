@@ -4,5 +4,6 @@
   "/UserManage/External": "/",
   "/JsonServer/GameManage": "/",
   "/Hotfix/Hotfix001": "/",
-  "/Hotfix/Hotfix002": "/"
+  "/Hotfix/Hotfix002": "/",
+  "/Release/001": "/"
 }
