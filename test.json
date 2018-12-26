@@ -6,5 +6,7 @@
   "/Hotfix/Hotfix001": "/",
   "/Hotfix/Hotfix002": "/",
   "/Release/001": "/",
-  "/Develop/001": "/"
+  "/Develop/001": "/",
+  "/Feature/001": "/",
+  "/Feature/002": "/"
 }
