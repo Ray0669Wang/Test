@@ -3,5 +3,6 @@
   "/UserManage/NewYear": "/",
   "/UserManage/External": "/",
   "/JsonServer/GameManage": "/",
-  "/Hotfix001/Hotfix001": "/"
+  "/Hotfix/Hotfix001": "/",
+  "/Hotfix/Hotfix002": "/"
 }
